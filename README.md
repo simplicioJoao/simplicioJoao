@@ -31,7 +31,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">Statistics</h2>
+<h2 align="center">Estatísticas</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=simplicioJoao&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
