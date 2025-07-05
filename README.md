@@ -6,8 +6,6 @@
  
  🔭 Em busca de uma oportunidade na área de tecnologia.
  
- 🌱 Atualmente aprendendo muito na Trilha de Desenvolvimento Web Full Stack da +praTI.
-
  </div>
  
 <div align="center"> 
@@ -24,7 +22,7 @@
 <h2 align="center">Linguagens - Frameworks - Tools</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,figma,py,c,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,figma,py,c,java,git,vscode" />
   <br>
 </div>
 
