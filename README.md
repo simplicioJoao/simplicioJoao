@@ -1,12 +1,11 @@
-<h3 align="center">Olá, sou um Desenvolvedor de Software</h3>
+<h3 align="center">Olá, eu sou o João!</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 Em busca de uma oportunidade na área de tecnologia.
- 
- </div>
+ <p>Cursando Engenharia de Software</p>
+ <p>Principal interesse em projetos Front End</p> 
+</div>
  
 <div align="center"> 
   <a href="mailto:simpliciojoaopaulo35@gmail.com">
@@ -22,7 +21,7 @@
 <h2 align="center">Linguagens - Frameworks - Tools</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,figma,py,c,java,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,figma,py,c,java,mysql,git,vscode" />
   <br>
 </div>
 
